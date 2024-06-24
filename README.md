@@ -11,6 +11,8 @@
 </a>
 </div>
 <h4 align="center">✨ Automate Your Telegram Chats with this Auto Reaction Bot! React to Messages Effortlessly! 🚀</h4>
+<h4 align="center"> Current reactions👍❤😁🤔🤯👌🌭🌚❤‍🔥🐳😍🥴🥱🤣💋😈😴🤝✍🤗💘🆒🗿🤪💅☃🎄🎅🦄😘💊🙊😎👾🤷‍♂🤷🤷‍♀😡👀🍾💯🕊😱😢🎉🤩🙏😐👻🙈🍌💔🏆🤨🤓😭🎃🤡🔥🥰👏🍓⚡👨‍💻🫡😨😇🙉</h4>
+
 <div align="center">
   Serverless deployment on Cloudflare - Free
   <br />
